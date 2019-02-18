@@ -1,0 +1,80 @@
+[p LITE_MODE AUTOSTATIC PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F1459 ]
+[d frameptr 6 ]
+"26 H:\MPLAB\Activity1.X\Activity1.c
+[v _main main `(i  1 e 2 0 ]
+"62 C:\Program Files\Microchip\xc8\v1.44\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files\Microchip\xc8\v1.44\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"16 H:\MPLAB\Activity1.X\UBMP.c
+[v _initOsc initOsc `(v  1 e 1 0 ]
+"25
+[v _initPorts initPorts `(v  1 e 1 0 ]
+"20 H:\MPLAB\Activity1.X\Activity1.c
+[v _isS5Pressed isS5Pressed `uc  1 e 1 0 ]
+"1002 C:\Program Files\Microchip\xc8\v1.44\include\pic16f1459.h
+[v _TRISA TRISA `VEuc  1 e 1 @140 ]
+"1029
+[v _TRISB TRISB `VEuc  1 e 1 @141 ]
+"1068
+[v _TRISC TRISC `VEuc  1 e 1 @142 ]
+"1239
+[v _OPTION_REG OPTION_REG `VEuc  1 e 1 @149 ]
+"1502
+[v _OSCCON OSCCON `VEuc  1 e 1 @153 ]
+"1676
+[v _ADCON0 ADCON0 `VEuc  1 e 1 @157 ]
+"1756
+[v _ADCON1 ADCON1 `VEuc  1 e 1 @158 ]
+"1822
+[v _ADCON2 ADCON2 `VEuc  1 e 1 @159 ]
+"1864
+[v _LATA LATA `VEuc  1 e 1 @268 ]
+"1891
+[v _LATB LATB `VEuc  1 e 1 @269 ]
+"1930
+[v _LATC LATC `VEuc  1 e 1 @270 ]
+"2517
+[v _ANSELA ANSELA `VEuc  1 e 1 @396 ]
+"2546
+[v _ANSELB ANSELB `VEuc  1 e 1 @397 ]
+"2582
+[v _ANSELC ANSELC `VEuc  1 e 1 @398 ]
+"4299
+[v _ACTCON ACTCON `VEuc  1 e 1 @923 ]
+"6603
+[v _LATC4 LATC4 `VEb  1 e 0 @2164 ]
+"6605
+[v _LATC5 LATC5 `VEb  1 e 0 @2165 ]
+"6609
+[v _LATC7 LATC7 `VEb  1 e 0 @2167 ]
+"6639
+[v _PLLRDY PLLRDY `VEb  1 e 0 @1238 ]
+"6717
+[v _RA3 RA3 `VEb  1 e 0 @99 ]
+"6723
+[v _RB4 RB4 `VEb  1 e 0 @108 ]
+"6725
+[v _RB5 RB5 `VEb  1 e 0 @109 ]
+"6727
+[v _RB6 RB6 `VEb  1 e 0 @110 ]
+"6729
+[v _RB7 RB7 `VEb  1 e 0 @111 ]
+"26 H:\MPLAB\Activity1.X\Activity1.c
+[v _main main `(i  1 e 2 0 ]
+{
+"85
+} 0
+"25 H:\MPLAB\Activity1.X\UBMP.c
+[v _initPorts initPorts `(v  1 e 1 0 ]
+{
+"42
+} 0
+"16
+[v _initOsc initOsc `(v  1 e 1 0 ]
+{
+"21
+} 0
