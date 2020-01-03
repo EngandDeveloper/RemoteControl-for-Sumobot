@@ -21,4 +21,4 @@ PIC16F1459.c file is written by the company. I used their IDE MPLab to develop t
 - Working with IR sensors and light sensors
 - Writing basic C codes to control microcontrollers and other circuit components
 - Reading circuit schematics
-- Changing Sony's remote control process to make a remore control for my Sumobot
+- Changing Sony's remote control process to make a remote control for my Sumobot
